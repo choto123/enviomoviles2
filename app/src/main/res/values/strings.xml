@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Turistiandov2</string>
+
+    <string name="hoteles">Hoteles</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="bienvenido">Bienvenido</string>
+
+    <string name="quiensoy">
+        Como estudiante de Ingeniería de Sistemas, mi experiencia ha sido verdaderamente enriquecedora y desafiante. Desde el primer dia, me he visto inmerso en un mundo tecnologico en constante evolucion, donde cada día es una oportunidad para aprender y crecer.
+        La carrera de Ingenieria de Sistemas me ha brindado una base solida en programacion, diseño de software, analisis de datos y gestion de proyectos. A medida que avanzo en mis estudios, puedo apreciar como estos conocimientos se entrelazan y forman la columna vertebral de la tecnologia moderna.
+        La resolución de problemas se ha convertido en una habilidad esencial en mi día a dia como estudiante de Ingeniería de Sistemas. Cada desafio me empuja a pensar creativamente y a buscar soluciones innovadoras. Me sorprende como la combinación de logica y creatividad puede llevar a resultados sorprendentes.
+    </string>
+
+    <string name="titulohoteles">Descubre Nuestros Hoteles</string>
+    <string name="resenahoteles">
+     Encontraras habitaciones desde 80000 COP con multiple acomodaciones, cocina y baños
+    </string>
+    <string name="vermas">Ver Mas</string>
+
+    <string name="titulorestaurante">Descubre Nuestros Restaurantes</string>
+    <string name="resenarestaurantes">Si estás buscando una experiencia culinaria autentica y llena de sabor, el encantador pueblo de Tamesis es el lugar ideal para satisfacer tus antojos. Con una rica oferta gastronomica, este pintoresco pueblo es un paraiso para los amantes de la buena comida.</string>
+
+    <string name="tituloturismo">Descubre Nuestros Lugares</string>
+    <string name="resenaturismo">Aqui podras explorar muchas zonas verdes y bastantes cascadas y rios naturales, aqui podras ser uno con la naturaleza y disfrutar de estas hermosas vistas a los alrededores de todo el suroeste antioqueño</string>
+
+    <string name="opcion1">Ingles</string>
+    <string name="opcion2">Español</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Acerca de</string>
+</resources>

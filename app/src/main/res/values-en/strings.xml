@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+
+    <string name="hoteles">Hotels</string>
+    <string name="restaurantes">Restaurants</string>
+    <string name="sitios">Tourist Sites</string>
+    <string name="bienvenido">Welcome</string>
+
+    <string name="quiensoy">
+        As a student of Systems Engineering, my experience has been truly enriching and challenging. From day one, I have been immersed in a constantly evolving technological world, where every day is an opportunity to learn and grow.
+        The field of Systems Engineering has provided me with a solid foundation in programming, software design, data analysis, and project management. As I progress in my studies, I can appreciate how these skills interweave and form the backbone of modern technology.
+        Problem-solving has become an essential skill in my daily life as a Systems Engineering student. Each challenge pushes me to think creatively and seek innovative solutions. I am amazed at how the combination of logic and creativity can lead to surprising outcomes  </string>
+
+    <string name="titulohoteles">Discover Our Hotels</string>
+    <string name="resenahoteles">
+     You will find rooms starting from 80,000 COP with multiple accommodations, kitchen, and bathrooms.
+    </string>
+    <string name="vermas">Learn More</string>
+
+    <string name="titulorestaurante">Discover Our Restaurants</string>
+    <string name="resenarestaurantes">If youre looking for an authentic and flavorful culinary experience, the charming village of Tamesis is the ideal place to satisfy your cravings. With a rich gastronomic offering, this picturesque village is a paradise for food enthusiasts</string>
+
+    <string name="tituloturismo">Discover Our Places</string>
+    <string name="resenaturismo">Here you can explore many green areas, numerous waterfalls, and natural rivers. This is the perfect place to connect with nature and enjoy the beautiful views of the surroundings in the entire southwest of Antioquia</string>
+
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">about</string>
+</resources>

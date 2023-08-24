@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+
+    <string name="hoteles">Alberghi</string>
+    <string name="restaurantes">Ristoranti</string>
+    <string name="sitios">Luoghi Turistici</string>
+    <string name="bienvenido">Benvenuti</string>
+
+    <string name="quiensoy">
+        Come studente di Ingegneria dei Sistemi, la mia esperienza e stata davvero arricchente e stimolante. Sin dal primo giorno, mi sono trovato immerso in un mondo tecnologico in costante evoluzione, dove ogni giorno e un opportunita per imparare e crescere.
+        Il campo dell Ingegneria dei Sistemi mi ha fornito una solida base di programmazione, progettazione software, analisi dei dati e gestione dei progetti. Man mano che avanzo nei miei studi, posso apprezzare come queste competenze si intrecciano e costituiscono la spina dorsale della tecnologia moderna.
+        La risoluzione dei problemi e diventata una competenza essenziale nella mia vita quotidiana da studente di Ingegneria dei Sistemi. Ogni sfida mi spinge a pensare in modo creativo e a cercare soluzioni innovative. Sono stupito di come la combinazione di logica e creatività possa portare a risultati sorprendenti.</string>
+
+    <string name="titulohoteles">Scopri i nostri hotel</string>
+    <string name="resenahoteles">
+     Troverai camere a partire da 80.000 COP con sistemazioni multiple, cucina e bagni.
+    </string>
+    <string name="vermas">Scopri di piu</string>
+
+    <string name="titulorestaurante">Scopri i nostri Ristoranti</string>
+    <string name="resenarestaurantes">Se stai cercando un esperienza culinaria autentica e piena di sapori, l incantevole villaggio di Tamesis e il luogo ideale per soddisfare le tue voglie. Con una ricca offerta gastronomica, questo pittoresco paese e un paradiso per gli amanti della buona cucina</string>
+
+    <string name="tituloturismo">"Scopri i Nostri Luoghi</string>
+    <string name="resenaturismo">Qui potrai esplorare molte aree verdi, numerose cascate e fiumi naturali. Questo e il luogo ideale per connettersi con la natura e godersi le splendide viste dei dintorni nell intero sud-ovest di Antioquia</string>
+
+    <string name="opcion1">Inglese</string>
+    <string name="opcion2">spagnolo</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">about</string>
+
+</resources>
